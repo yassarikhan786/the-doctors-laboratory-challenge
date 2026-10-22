@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="MartianRobots.Service.Common/MartianRobots.Service.Common.csproj" Id="f549de8c-2078-49e3-8b2c-b742e89671c7" />
+  <Project Path="MartianRobots.Service.Models/MartianRobots.Service.Models.csproj" Id="82f205b0-1811-4e86-b839-b2ca40872a8e" />
+  <Project Path="MartianRobots.Service.Tests/MartianRobots.Service.Tests.csproj" Id="d24ce966-13c2-404d-a955-3a74220ea4e3" />
+  <Project Path="MartianRobots.Service/MartianRobots.Service.csproj" />
+</Solution>
